@@ -1,6 +1,6 @@
 # Hi, I’m @gayatriramakrishnan30
 
-I'm Gayatri Ramakrishnan – a Life Science Management student at HTW Berlin with a Master’s in Biotechnology. I’m passionate about using scientific knowledge, regulatory insight, and analytics to drive impact in healthcare and life sciences.
+I'm Gayatri Ramakrishnan - a Life Science Management student at HTW Berlin with a Master’s in Biotechnology. I’m passionate about using scientific knowledge, regulatory insight, and analytics to drive impact in healthcare and life sciences.
 
 ## I’m interested in:
 - Regulatory affairs, compliance workflows, and healthcare strategy  
@@ -28,7 +28,7 @@ I'm Gayatri Ramakrishnan – a Life Science Management student at HTW Berlin wit
 She/Her
 
 ## Fun fact:
-I’ve represented my state in national-level basketball tournaments and hold formal training in Indian classical music — science and creativity are both in my DNA 🎶🏀
+I’ve represented my state in national-level basketball tournaments and hold formal training in Indian classical music - science and creativity are both in my DNA
 
 
 <!---
