@@ -10,14 +10,14 @@ I'm Gayatri Ramakrishnan - a Life Science Management student at HTW Berlin with 
 
 ## I’m currently learning:
 - Power BI and data storytelling  
-- Regulatory documentation standards (FDA/EMA, CTD format)  
+- Regulatory documentation standards (EMA, CTD format)  
 - Applied Python and R for healthcare analytics  
 - Science-based marketing and strategy
 
 ## I’m looking to collaborate on:
 - Science communication or biotech outreach projects  
 - Regulatory intelligence case studies or submissions  
-- Life science data visualization or dashboarding  
+- Life science data visualisation or dashboarding  
 - Open-source bioinformatics/health-tech documentation
 
 ## How to reach me:
